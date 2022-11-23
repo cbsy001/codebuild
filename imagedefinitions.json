@@ -1,6 +1,6 @@
 [
     {
-        "name": "custom",
-        "imageUri": "428645345788.dkr.ecr.ap-south-1.amazonaws.com/repo:latest"
+        "name": "codebuild",
+        "imageUri": "428645345788.dkr.ecr.ap-south-1.amazonaws.com/codebuild:latest"
     }
 ]
