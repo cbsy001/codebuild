@@ -14,3 +14,5 @@ phases:
                         - echo executing Post Build
                         - docker push 428645345788.dkr.ecr.ap-south-1.amazonaws.com/codebuild:latest
 
+artifacts:
+  files: imagedefinitions.json
