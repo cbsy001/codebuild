@@ -1,6 +1,6 @@
 [
     {
-        "name": "codebuild",
+        "name": "app",
         "imageUri": "428645345788.dkr.ecr.ap-south-1.amazonaws.com/codebuild:latest"
     }
 ]
